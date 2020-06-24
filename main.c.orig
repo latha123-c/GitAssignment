@@ -9,11 +9,11 @@ Initial Security()
 {
  //Sample Code
 }
-
+<<<<<<< HEAD
 security patch()
-{
-}
+=======
 feature2()
+>>>>>>> feature2
 {
 }
 
